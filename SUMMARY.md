@@ -6,7 +6,7 @@
   * [10-Minute Quickstart](getting-started/10-minute-quickstart.md)
   * [Setup Your Menus](getting-started/setup-your-menus.md)
   * [Configure Your Services](getting-started/configure-your-services.md)
-  * [Customize Your Design](getting-started/customize-your-design.md)
+  * [Customise Your Design](getting-started/customize-your-design.md)
   * [Managing Orders & Bookings](getting-started/managing-orders-and-bookings.md)
   * [Promoting Your Store](getting-started/promoting-your-store.md)
 * [How To Guides](how-to-guides/README.md)
