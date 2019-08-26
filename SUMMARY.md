@@ -18,7 +18,7 @@
   * [Setup A Custom Domain](how-to-guides/setup-a-custom-domain.md)
   * [Setup an iOS & Android App](how-to-guides/setup-an-ios-and-android-app.md)
   * [Setup Facebook Ordering](how-to-guides/setup-facebook-ordering.md)
-* [Platform Information](platform-information/README.md)
+* [COMING SOON \| Platform Information](platform-information/README.md)
   * [Customer Accounts](platform-information/customer-accounts.md)
   * [Your Subscription & Billing](platform-information/your-subscription-and-billing.md)
 * [UNDER CONSTRUCTION](resellers/README.md)

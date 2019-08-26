@@ -4,5 +4,5 @@ description: >-
   managing your subscription
 ---
 
-# Platform Information
+# COMING SOON \| Platform Information
 
